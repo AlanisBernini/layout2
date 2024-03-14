@@ -41,7 +41,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  }
+  margin-bottom: 167px;
+}
 
  
  
@@ -70,7 +71,6 @@ section p {
   color: #C2C2C2 ;
 
   margin-top: 59px;
-  margin-bottom: 167px;
   text-align: center;
   
 }
